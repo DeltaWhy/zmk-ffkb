@@ -110,7 +110,7 @@
             bindings = <
     &kp TAB       &kp Q        &kp W        &kp F       &kp P         &kp B                                       &kp J         &kp L        &kp U         &kp Y       &kp SQT     &kp MINUS
     &hm LCTL ESC  &hm LGUI A   &hm LALT R   &hm LCTL S  &hs LSHIFT T  &kp G                                       &kp M         &hs RSHIFT N &hm RCTL E    &hm LALT I  &hm RGUI O  &coln
-    LSPO          &hm RALT Z   &kp X        &kp C       &kp D         &kp V                                       &kp K         &kp H        &kp COMMA     &hm RALT DOT &kp FSLH    RSPC
+    LSPO          &kp Z        &hm RALT X   &kp C       &kp D         &kp V                                       &kp K         &kp H        &kp COMMA     &hm RALT DOT &kp FSLH    RSPC
                                          &none       &mo NAV       &kp SPC  &kp TAB  &kp ENTER   &kp BSPC &mo NUM      &none
             >;
         };
